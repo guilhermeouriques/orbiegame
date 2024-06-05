@@ -1,4 +1,4 @@
-const cacheName = "Senai-Orbie-0.1.1";
+const cacheName = "Senai-Orbie-0.1.2";
 const contentToCache = [
     "Build/orbiegame.loader.js",
     "Build/orbiegame.framework.js.unityweb",
